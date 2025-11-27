@@ -1,10 +1,11 @@
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 1.5rem 0.85rem;
+  /* padding: 2rem; */
   text-align: center;
 }
-nav{
+nav{ 
     background-color: #646cff;
     color: white;
     font-weight: bold;
