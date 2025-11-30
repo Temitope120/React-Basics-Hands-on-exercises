@@ -13,9 +13,9 @@ nav{
 button{
     display: block;
     cursor: pointer;
-    border: 1px solid coral;
+    border: 1px solid #646cff;
     outline: none;
     background-color: white;
-    color: #646cff;
+    color: black;
     margin: 1rem auto;
 }
