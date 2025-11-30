@@ -5,6 +5,9 @@
   /* padding: 2rem; */
   text-align: center;
 }
+body{
+  background-color: #EDF1F7;
+}
 nav{ 
     background-color: #646cff;
     color: white;
